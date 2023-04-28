@@ -1,0 +1,9 @@
+.feedback__section {
+    margin: 20px 20px;
+}
+
+.feedback__title {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,19 @@
+.feedback__button {
+    font-size: 18px;
+    /* margin-top: 30px; */
+    padding: 8px;
+    width: 100px;
+    background-color: #fff;
+    border-radius: 40px 40px 40px 40px;
+    cursor: pointer;
+    transition: background-color ease 300ms, color ease 300ms;
+}
+
+.feedback__button:not(:last-child) {
+    margin-right: 15px;
+}
+
+.feedback__button:hover {
+    color: #fff;
+    background-color: #000;
+}
